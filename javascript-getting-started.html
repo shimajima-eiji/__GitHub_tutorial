@@ -1,0 +1,31 @@
+<p>
+  <a href="https://document.microcms.io/tutorial/javascript/javascript-getting-started">microCMS公式</a>
+</p>
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>microCMS SDK</title>
+</head>
+
+<body>
+  <h1 id="text"></h1>
+</body>
+<script src="https://unpkg.com/microcms-js-sdk@latest/dist/umd/microcms-js-sdk.js"></script>
+<script>
+  const { createClient } = microcms;
+
+  const client = createClient({
+    serviceDomain: 'service-domain', // service-domain は XXXX.microcms.io の XXXX 部分
+    apiKey: 'api-key',
+  })
+  let html = ""
+  client.get({ endpoint: 'blogs' }).then((res) => {
+    res.contents.forEach(element => {
+      document.querySelector('#text').textContent += element.title
+    });
+  })
+</script>
+
+</html>
