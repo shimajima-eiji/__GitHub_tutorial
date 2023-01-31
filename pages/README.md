@@ -6,10 +6,13 @@
 この場合はどちらが表示されるか、リンクから検証してみよう。
 アドレスに注目してみて欲しい
 
-## pages/index/
-- [pages/index/](pages/index/)
-- [pages/index/README.md](pages/index/README.md)
-- [pages/index/index.md](pages/index/index.md)
+## pages/test/
+- [pages/test/](pages/test/)
+- [pages/test/README.md](pages/test/README.md)
+- [pages/test/index.md](pages/test/index.md)
+
+## 「index」は特殊な名前である
+
 
 ## 参考情報
 - [このページのソースファイル](https://github.com/shimajima-eiji/__GitHub_tutorial/blob/main/pages/README.md)
