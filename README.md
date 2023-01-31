@@ -8,3 +8,4 @@ Gitコマンド自体については本リポジトリでは扱わない。
 ## GitHub Pagesの研修ページ
 - https://shimajima-eiji.github.io/__GitHub_tutorial
 - 設定ページ: https://github.com/(自分のアカウント)/(リポジトリ)/settings/pages
+  - 自分のアカウント・リポジトリに書き換えてアドレス欄に貼り付けて移動すること
