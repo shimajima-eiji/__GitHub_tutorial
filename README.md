@@ -1,12 +1,6 @@
-# __microCMS_tutorial
-本家をコピペで使えないため、オレオレ作成版
+# GitHub研修用リポジトリ
+本リポジトリは、GitHub研修で使用する教材として運用している。 <br>
+リポジトリで設定できる内容について、一つずつ解説していく。<br>
+Gitコマンド自体については本リポジトリでは扱わない。
 
-## microCMSのAPI設定
-デフォルトのブログを使用。
-
-![image](https://user-images.githubusercontent.com/15845907/192785295-742cb1a2-5fe7-4f7a-89c4-5a608d277f40.png)
-
-![image](https://user-images.githubusercontent.com/15845907/192785150-529f2ed2-9091-4b13-a56d-195e7fcb5647.png)
-
-## 「デフォルト設定」ブログを表示するソース
-https://github.com/shimajima-eiji/__microCMS_tutorial/blob/main/javascript-getting-started.html
+各ページの解説は[リポジトリ内のWiki](https://github.com/shimajima-eiji/__GitHub_tutorial/wiki)を参照のこと。
