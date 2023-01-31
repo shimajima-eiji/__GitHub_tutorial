@@ -4,3 +4,7 @@
 Gitコマンド自体については本リポジトリでは扱わない。
 
 各ページの解説は[リポジトリ内のWiki](https://github.com/shimajima-eiji/__GitHub_tutorial/wiki)を参照のこと。
+
+## GitHub Pagesの研修ページ
+- https://shimajima-eiji.github.io/__GitHub_tutorial
+- 設定ページ: https://github.com/(自分のアカウント)/(リポジトリ)/settings/pages
